@@ -1,5 +1,42 @@
-body {
+body 
+{
   width: 100%;
   height: 100%;
   margin: 0;
+}
+header 
+{
+  text-align: center;
+}
+.living-room 
+{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width:50%;
+}
+.navigation
+{
+  background-color: lightgray;
+}
+a 
+{
+ padding:10px;
+}
+.image-caption
+{
+  text-align: center;
+  font-size: 80%;
+}
+#featured-property p
+{
+  text-align: center;
+  width: 800xp;
+  margin: 3%;
+}
+#details div
+{
+  float: left;
+  width: 25%;
+  background-color: red;
 }
